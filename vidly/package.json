@@ -15,7 +15,7 @@
     "express": "^4.17.0",
     "express-async-errors": "^3.1.1",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "mongoose": "^5.5.12",
     "winston": "^2.4.0"
